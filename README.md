@@ -1,0 +1,2 @@
+# sails-cli
+SailsJS CLI
