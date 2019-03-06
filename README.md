@@ -2,7 +2,7 @@
 SailsJS CLI Docker Image
 
 ## Example Usage
-`docker run -it --rm -v $(pwd)/app sails-cli:latest sails new .`
+`docker run -it --rm -v $(pwd)/app skypress/sails-cli:latest sails new .`
 
 ## Notes
 - Base image is `node:current-stretch`
